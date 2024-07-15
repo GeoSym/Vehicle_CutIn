@@ -1,5 +1,3 @@
-# Vehicle_CutIn
-# Vehicle_CutIn
 # Vehicle Cut In Detection
 
 **CUT-IN DEFINITION:** Cut-in is defined as a lane change maneuver performed by an adjacent vehicle into the ego lane.
